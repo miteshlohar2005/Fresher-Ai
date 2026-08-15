@@ -383,4 +383,18 @@ The **roadmap service** chains `roadmapAgent → resourceAgent` to first draft t
 
 ## 📄 License
 
-This project is licensed under the **ISC License**.
+Copyright (c) 2026 Mitesh Ramesh Lohar
+
+All rights reserved.
+
+This project and its source code are provided for viewing and
+educational/reference purposes only.
+
+Unauthorized copying, reproduction, modification, redistribution,
+commercial use, or publication of this project or substantial
+portions of its source code is prohibited without prior written
+permission from the author.
+
+The project may be referenced in portfolios, academic work, or
+technical discussions with proper attribution, but the source code
+may not be reused or redistributed without permission.
