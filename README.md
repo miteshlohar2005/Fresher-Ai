@@ -25,9 +25,27 @@ The platform runs as a **microservice architecture** — a React frontend talks 
 
 ## 📸 Screenshots
 
-| Landing Page | Resume Analysis | Roadmap Generator |
-| --- | --- | --- |
-| ![Home](screenshots/home.png) | ![Resume Analysis](screenshots/resume-analysis.png) | ![Roadmap Generator](screenshots/roadmap-generator.png) |
+### 🏠 Landing Page
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Fresher.AI Landing Page" width="900">
+</p>
+
+---
+
+### 📄 Resume Analysis
+
+<p align="center">
+  <img src="screenshots/resume-analysis.png" alt="Fresher.AI Resume Analysis" width="900">
+</p>
+
+---
+
+### 🗺️ Roadmap Generator
+
+<p align="center">
+  <img src="screenshots/roadmap-generator.png" alt="Fresher.AI Roadmap Generator" width="900">
+</p>
 
 ---
 
